@@ -84,7 +84,7 @@ margin-bottom: 20px;
 <div class="post20231126">
 <p>Van is finally secured. Sadly, it's not a Kombi as I said before. initially the plan was finding the truck I just bought but it ended up being really hard lol, so we ended up giving up and settling for a Kombi. However, luck shone on me, and a MB180D in great condition appeared. We struck a GREAT deal on it.</p>
 <div style="position: relative;">
-  <img style="position: relative; left: 50%; transform: translate(-50%); width: 100%; z-index: 1;" src="https://cdn.discordapp.com/attachments/886657451624116307/1178366431184814226/van-1.webp">
+  <img style="position: relative; left: 50%; transform: translate(-50%); width: 100%; z-index: 1;" src="https://77rx2b.github.io/3D-models/website/van-1.webp">
   <img style="filter: drop-shadow(6px 6px 5px rgba(0, 0, 0, 0.1)); position: absolute; left: 12%; top: 44%; transform: translate(-50%); width: 25%; z-index: 2; border: none; outline: none;  pointer-events: none;" src="https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif"/>
 </div>
 
@@ -194,11 +194,11 @@ margin-bottom: 20px;
 <p>Circa ending of 2022, I never ended up finishing this painting, I will eventually, probably. 
 
 <video class="embedded-video28102023" controls>
-    <source src="https://77rx2b.github.io/3D-models/website/202-08-27_14-15-05-2x-RIFE-RIFE4.0-60fps.webm" type="video/mp4">
+    <source src="https://77rx2b.github.io/3D-models/website/202-08-27_14-15-05-2x-RIFE-RIFE4.0-60fps.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
-<p><img src="https://cdn.discordapp.com/attachments/914353122577625088/1051098211697299506/Alice_and_the_bird_in_the_high_hat.webp"/>
+<p><img src="https://77rx2b.github.io/3D-models/website/Alice_and_the_bird_in_the_high_hat.webp"/>
 
 </div>
 </div>
@@ -242,17 +242,17 @@ margin-bottom: 20px;
 <p><img src="https://77rx2b.github.io/3D-models/website/renderlain.png"/>
 
 <video class="embedded-video28102023" controls>
-    <source src="https://77rx2b.github.io/3D-models/website/arma.webm" type="video/mp4">
+    <source src="https://77rx2b.github.io/3D-models/website/arma.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 <video class="embedded-video28102023" controls>
-    <source src="https://77rx2b.github.io/3D-models/website/Video2.webm" type="video/mp4">
+    <source src="https://77rx2b.github.io/3D-models/website/Video2.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 <video class="embedded-video28102023" controls>
-    <source src="https://77rx2b.github.io/3D-models/website/Video3.webm" type="video/mp4">
+    <source src="https://77rx2b.github.io/3D-models/website/Video3.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -262,12 +262,12 @@ Older videos
 
 <div id="video-container28102023">
     <video class="embedded-video28022302" controls>
-        <source src="https://77rx2b.github.io/3D-models/website/doc_2023-07-27_12-50-31.webm" type="video/mp4">
+        <source src="https://77rx2b.github.io/3D-models/website/doc_2023-07-27_12-50-31.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
     <video class="embedded-video28022302" controls>
-        <source src="https://77rx2b.github.io/3D-models/website/doc_2023-07-27_12-50-42.webm" type="video/mp4">
+        <source src="https://77rx2b.github.io/3D-models/website/doc_2023-07-27_12-50-42.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     </div>
@@ -288,7 +288,7 @@ Older videos
 <p class="dateTime">2023-09-26</p>
   <p>
 <p>Hello, went for another walk, here's another picture. I love the open fields of hills, nature is such a blessing.
-<div class="post20231023"><img src="https://cdn.discordapp.com/attachments/886657451624116307/1166957467519963166/25.webp" /> 
+<div class="post20231023"><img src="https://77rx2b.github.io/3D-models/website/25.webp" /> 
 
 
 </div>
@@ -398,7 +398,7 @@ Older videos
 <p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/topsters2.png"/></p>
 
 <p>Anyway, let's get started:</p>
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/image.png"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/image_1.png"/></p>
 
 <p><b>First things first,</b> let's talk about the latest single from $uicideBoy$ called <b>"I No Longer Fear the Razor Guarding My Heel (V)."</b></p>
 
@@ -414,7 +414,7 @@ Older videos
 <p>Listening to this album takes me back to a time that I never even lived, and that's what good music does.</p>
 
 
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 70%;" src="https://cdn.discordapp.com/attachments/886657451624116307/1145110342813352026/7a22d22ded3822b3c5293d270492344f.webp"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 70%;" src="https://77rx2b.github.io/3D-models/website/7a22d22ded3822b3c5293d270492344f.webp"/></p>
 <p><b>In third</b>, we have <b>"The Bitter End" by Placebo</b>. I don't know exactly how to categorize Placebo as a band because their sound is quite androgynous (pun intended). It's punk that is also soothing, and I find that quite amusing. This has to be my favorite album of theirs when it comes to tone.</p>
 
 <p>Instead of the glam tuning, you have this gloomy feel that, paired with the weird guitar lines and Molko's nasal voice, works in a pretty good way. Honestly, I haven't listened to their discography past 2006 with "Meds," even though they're one of my most played bands. However, I'll probably give them a listen soon.</p>
@@ -433,7 +433,7 @@ Older videos
     <h1 class="entryTittle">Introducing CollaboraCanvas Beta</h1> <br>
     2023-08-15<br>
 
-    <p><a href="https://collaboracanvas.neocities.org/" target="_blank"><img style="position: relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/image.png" alt="CollaboraCanvas Preview"></a></p>
+    <p><a href="https://collaboracanvas.neocities.org/" target="_blank"><img style="position: relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/image_2.png" alt="CollaboraCanvas Preview"></a></p>
 
     <p>
     Sup, beautiful bastards! I am excited to announce the launch of CollaboraCanvas, the interactive chalkboard tool showcased here on my website. It has now transformed into a full-fledged service.
@@ -447,7 +447,7 @@ Older videos
     The basic subscription is priced at <b>$9.99 USD per month</b>, but you have the option to save with an annual subscription at <b>$100 USD</b>, offering a <b>15% discount</b>. Upon purchasing, you will receive an email containing an iframe code for integration into your website, along with a master password for moderating content on your platform.
     </p>
     
-    <p><a href="https://collaboracanvas.neocities.org/" target="_blank"><img style="position: relative; left: 50%; transform: translate(-50%); width: 100%;" src="https://77rx2b.github.io/3D-models/website/image.png" alt="CollaboraCanvas Preview"></a></p>
+    <p><a href="https://collaboracanvas.neocities.org/" target="_blank"><img style="position: relative; left: 50%; transform: translate(-50%); width: 100%;" src="https://77rx2b.github.io/3D-models/website/image_3.png" alt="CollaboraCanvas Preview"></a></p>
     
   <p>The plan is to release the Standard & Pro plans in the coming months. Upgrading will be available, and if you choose to upgrade, we can offer a discount based on the price you paid for the basic version. The basic version will still receive new features; however, funding is needed to implement them, especially AI moderation. The standard version will allow users to post custom divs instead of just text and images, adding an element of fun and perhaps some chaos as well.</p>
   
@@ -463,23 +463,23 @@ Older videos
 <p class="dateTime">2023-08-13</p>
 <div class="post20230813">
 <p>Welcome to another Saturday! After losing another Saturday because I was too busy listening to music and working, and not actually writing about it, here we are. Hopefully, the new 3D visuals make for a more immersive experience. Hopefully, you guys can run this. I mean, my dying $20 2GB 960 that I bought from a Chinese mining farm on AliExpress can run it, so can you!</p>
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/topsters2.png"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/topsters2_1.png"/></p>
 
 <p>Anyway, let's get started:</p>
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://media.discordapp.net/attachments/886657451624116307/1140136063692705862/R-2862073-1305072194.jpg"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/R-2862073-1305072194.jpg"/></p>
 <p><b>FIRST:</b> In first (NUMERO UM) place, we have <b>Mindless Self Indulgence</b>'s PEARL of an album with the best motherfucker album cover art that could ever be – <b>Frankenstein Girls Will Seem Strangely Sexy (2000)</b>. Just the fact that the album cover was drawn by Jamie Hewlett already makes it a good album. I love his art. I carry it on my skin.</p>
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/image.png"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/image_4.png"/></p>
 <div style="text-align:center;">Literally, look at my arm</div>
 <p>Anyway, this is a great album, completely chaotic, all over the place, with a beautiful feeling of the late '90s and early 2000s. Gotta love piss (Jimmy Urine), yeah, that's his name. My recommendations for this one are FAGGOT, the F word, Not FAGGOT, I'm talking about the F song. Believe it or not, there are two F words in this album: Cocaine and Toupees, Bitches and Masturbates.</p>
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://cdn.discordapp.com/attachments/886657451624116307/1140128952657125467/efc5fe72f163cef397a25ef633bd5978.webp"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/efc5fe72f163cef397a25ef633bd5978.webp"/></p>
 <p><b>SECOND:</b> <b>宇宙ネコ子 - 君のように生きれたら (Kimi no Youni Ikiretara by Uchuu Nekoko)</b> is a chill shoegaze album by the Japanese duo Uchuu Nekoko. Lyrics about love and chilling, whispering voice tones, and incredible melodies. Interesting song name choices too, like Virgin Suicide. The first time I saw this album, I thought it would be some kind of Shock rock, but that's not the case. Anyway, listen to it in its entirety and give the other albums a try too – it's completely worth it.</p>
 
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://media.discordapp.net/attachments/886657451624116307/1140132415793266698/red-taylors-version.jpg"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://77rx2b.github.io/3D-models/website/red-taylors-version.jpg"/></p>
 <p><b>THIRD:</b> <b>Taylor Swift - Red (Taylor's Version)</b>, as always, Taylor is back for another recommendation. This is a re-recording of the Red album from 2013. Different from the last one I reviewed, this is possibly peak Taylor. Probably my second favorite album of hers. I miss her country-pop days so much, you have no idea. And of course, "22" is on this, so it's a perfect night to dress as hipsters and have breakfast at midnight while listening to it.</p>
 
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://media.discordapp.net/attachments/886657451624116307/1140126681647038514/min_vietnam_top_50_241.jpeg"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/min_vietnam_top_50_241.jpeg"/></p>
 <p><b>FOURTH:</b> <b>Min - 50/50</b>. You know, forget that South Korean shit; we're into V-POP, Vietnam, We fuck with Ho Chi Minh up in this bitch. Solid album. I love how the Vietnamese language sounds, and Min has a really beautiful voice. "Cà phê" is probably my favorite track on this one.</p>
-<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://cdn.discordapp.com/attachments/886657451624116307/1140125336235941978/Chelmico.webp"/></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://77rx2b.github.io/3D-models/website/Chelmico.webp"/></p>
 
 <p><b>FIFTH:</b> <b>Chelmico - gokigen</b>. Chelmico is probably one of my favorite duos, not only in Japan but probably anywhere. I absolutely love their sound. Rachel and Mamiko are absolutely crazy, and the instrumentals go absolutely wacky sometimes – in a good way. This album is an example of it. You have cozy songs like "COZY" and then crazy stuff like "O. La" that sounds like a mixture of Samba, Rap, and Electropop.</p>
 
@@ -539,7 +539,7 @@ My two exceptionally talented game developer blokes are releasing their first ga
 </p>
 
 
-<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="13 songs - Fugazi"></a>
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_1.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_1.jpg" alt="13 songs - Fugazi"></a>
 
 
 <p>Fugazi is one of the best post-punk bands to have ever graced the earth. This album is an amalgamation of what can be called their best songs. So, give it a listen. This is not just a recommendation; if you've never listened to Fugazi, get your shit together and listen to this now.
@@ -548,7 +548,7 @@ My two exceptionally talented game developer blokes are releasing their first ga
 
 <p><h2 class="songTittles">Midnights<br>Taylor Swift (2022)</h2></p>
 
-<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="Taylor Swift - Midnights"></a></p>
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_2.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_2.jpg" alt="Taylor Swift - Midnights"></a></p>
 
 
 <p>I really like Taylor Swift. Carly Rae Jepsen is great too, but this Saturday is Taylor Swift's time to shine. Anyway, I'm a big fan of old-era Taylor Swift, especially her country girl albums. Her recent remake of Fearless, entitled Fearless - (Taylor's Version), was like a literal gift to me. However, I'm starting to like more and more of her recent work, with some exceptions. <p>Not the case with 'Midnights' though, this album is really good. EXCEPT for the deluxe version, which is a considerable downgrade, especially because it includes the version of 'Karma' featuring the horrible singer 'Ice Spice.' This is something I'd like to talk about in the future, by the way - how record labels coerce artists into making dumb ass collabs for exposure and also force them to completely do a 180 with their careers to adapt to what is hip and cool.
@@ -559,7 +559,7 @@ Anyway, the songs here are really catchy, perfect for night trips, and surprisin
 
 
 
-<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="Synthetica - Metric"></a>
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_3.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_3.jpg" alt="Synthetica - Metric"></a>
 
 <p>Metric is a really good band, probably one of the most memorable Canadian indie rock bands. I love Emily Haines; she is a really talented artist who simply cannot make songs that are not catchy. This whole album has a distinct 2010s essence. My particular song recommendations are 'Lost Kitten' and 'Artificial Nocturne'.
 
@@ -567,7 +567,7 @@ Anyway, the songs here are really catchy, perfect for night trips, and surprisin
 
 
 
-<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="Red Flag - Sophia battaglini"></a>
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_4.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_4.jpg" alt="Red Flag - Sophia battaglini"></a>
 
 <p>Not really an album, but a single. Sophia is an incredibly talented Venezuelan musician that I've been listening to lately. <p>This single just dropped, and I absolutely recommend it. Her style kinda reminds me of Emily Haines in some ways; however, she somehow manages to be incredibly calm and soothing with her vocals and instrumental in a really unique way.
 
@@ -599,7 +599,7 @@ translate: -50%;
   Ported my Lain model to minecraft <br> <br>
 
     <video class="post280723" controls>
-        <source src="https://77rx2b.github.io/3D-models/website/Video2.webm" type="video/mp4">
+        <source src="https://77rx2b.github.io/3D-models/website/Video2_1.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
@@ -624,7 +624,7 @@ translate: -50%;
 <p> <h2 class="songTittles">Skylight <br> Pinegrove - (2018)</h2> 
 
 
-<p><a class="fancybox" data-fancybox="albumSSW2" href="https://cdn.discordapp.com/attachments/914353122577625088/1129918886075191409/791861570045241.webp"><img class="albumcovers" src="https://cdn.discordapp.com/attachments/914353122577625088/1129918886075191409/791861570045241.webp" alt="Everything So Far"></a>
+<p><a class="fancybox" data-fancybox="albumSSW2" href="https://77rx2b.github.io/3D-models/website/791861570045241.webp"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/791861570045241.webp" alt="Everything So Far"></a>
 
 <p>I've always believed that Pinegrove is severely underrated, so it was quite satisfying to witness them catching the attention "even if it's because of the zoomer algorithm." It's about time they receive the recognition they deserve. This album features some really cozy and calm songs. my personal favorites are Darkness, Easy Enough and Light on.
 <p>
@@ -712,7 +712,7 @@ translate: -50%;
 <p> <h2 class="songTittles">I Need to Start a Garden <br>  Haley Heynderickx - (2018) </h2> 
 
 
-<p><a class="fancybox" data-fancybox="album1" href="https://cdn.discordapp.com/attachments/914353122577625088/1127335677885956166/I_Need_to_Start_a_Garden.webp"><img class="albumcovers" src="https://cdn.discordapp.com/attachments/914353122577625088/1127335677885956166/I_Need_to_Start_a_Garden.webp" alt="I Need to Start a Garden"></a>
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/I_Need_to_Start_a_Garden.webp"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/I_Need_to_Start_a_Garden.webp" alt="I Need to Start a Garden"></a>
 
 <p>I'm a sucker for Indie Folk, and bands that capture that vibe truly resonate with me. Heyndericks's debut album is a prime example of high-quality work. The melodies are incredibly gentle, and her voice, along with the masterful fingerpicking techniques, creates a marvelous cohesion throughout the album. One track that stands out is "The Bug Collector," which exudes a captivating aura, reminiscent to me of the emotionally charged songs by Cartola, a great Brazilian musician, as well as elements of Argentinean regional music.
 
@@ -729,13 +729,13 @@ translate: -50%;
 
 
 
-<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="All Things Must Pass"></a>
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/unnamed_5.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_5.jpg" alt="All Things Must Pass"></a>
 
 <p>George Harrison, one of my all-time favorite artists and undeniably my favorite Beatle, created a masterpiece with "All Things Must Pass." This album is an absolute must-listen, as it carries significant messages of spirituality and introspection. If you are a believer, this album serves as a beautiful testament to faith and the essence of life itself. Its profound impact resonates deeply, making it an essential addition to any music collection.
 
 <p> <h2 class="songTittles">We Must Become the Pitiless Censors of Ourselves <br> John Maus - (2011) </h2> 
 
-<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="We Must Become the Pitiless Censors of Ourselves"></a>
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/unnamed_6.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_6.jpg" alt="We Must Become the Pitiless Censors of Ourselves"></a>
 
 <p>Among John Maus's discography, this album stands out as my personal favorite. Each track possesses an enchanting quality that remains captivating no matter how many times you listen to it. Maus's distinctive style of Synth-Pop is truly mesmerizing, offering a musical experience that is truly unparalleled. I highly recommend watching the performance of <a href="https://www.vid.puffyan.us/watch?v=balitii8_Xg">"The Man Who Would Never Be... What They Made Him To Be"</a>" from MDE: World Peace, which features the song "Cop Killer." The entirety of the performance is nothing short of incredible, leaving a lasting impression on anyone who witnesses it.
 
@@ -1127,27 +1127,27 @@ It's really tough to stand up against these things, nowadays when you don't go a
         </center><br>
     
       <div class="image-container061123">
-  <a href="https://77rx2b.github.io/3D-models/website/image.png" data-fancybox="gallery">
-            <img src="https://77rx2b.github.io/3D-models/website/image.png" alt="">
+  <a href="https://77rx2b.github.io/3D-models/website/image_5.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_5.png" alt="">
           </a>
-                    <a href="https://media.discordapp.net/attachments/914353122577625088/1117610831748800522/image.png" data-fancybox="gallery">
-            <img src="https://media.discordapp.net/attachments/914353122577625088/1117610831748800522/image.png" alt="">
+                    <a href="https://77rx2b.github.io/3D-models/website/image_6.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_6.png" alt="">
           </a>
-          <a href="https://media.discordapp.net/attachments/914353122577625088/1117610880339808276/image.png" data-fancybox="gallery">
-            <img src="https://media.discordapp.net/attachments/914353122577625088/1117610880339808276/image.png" alt="">
+          <a href="https://77rx2b.github.io/3D-models/website/image_7.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_7.png" alt="">
           </a>
 
         </div>
          <div class="image-container061123">
-                            <a href="https://77rx2b.github.io/3D-models/website/image.png" data-fancybox="gallery">
-            <img src="https://77rx2b.github.io/3D-models/website/image.png" alt="">
+                            <a href="https://77rx2b.github.io/3D-models/website/image_8.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_8.png" alt="">
           </a>
-                              <a href="https://77rx2b.github.io/3D-models/website/image.png" data-fancybox="gallery">
-            <img src="https://77rx2b.github.io/3D-models/website/image.png" alt="">
+                              <a href="https://77rx2b.github.io/3D-models/website/image_9.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_9.png" alt="">
           </a>
                     </a>
-                              <a href="https://77rx2b.github.io/3D-models/website/image.png" data-fancybox="gallery">
-            <img src="https://77rx2b.github.io/3D-models/website/image.png" alt="">
+                              <a href="https://77rx2b.github.io/3D-models/website/image_10.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_10.png" alt="">
           </a>
 </div>
 
