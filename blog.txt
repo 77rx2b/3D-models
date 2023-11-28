@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blog</title>
+    
+
+ <style>
+
+.blog-post {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc; 
+}
+
+
+.dateTime{
+	padding: 2px;
+	width: fit-content;
+	margin: -20px;
+	position: relative;
+	top: -46px;
+	left: -10px;
+	transform-origin: left;
+	transform: rotate(90deg);
+	color: black;
+	background-color: white;
+	transition: 0s !important;
+}
+
+.subtext{
+	position: absolute;
+	font-size: .5em !important;
+	left: -30px;
+	transform: translateY(86px) rotate(90deg);
+	padding: 2px;
+	width: 260px;
+	text-align: center;
+	transform-origin: left;
+	color: black;
+	background-color: white;
+	transition: 0s !important;
+}
+
+* { transition: 5.5s ease }
+.songTittles {
+position: relative;
+text-align: center;
+background-color: black;
+color: white;
+left: 50%;
+translate: -50%;
+padding: 5px;
+}
+
+
+ .albumcovers {
+position: relative;
+width: 300px !important;
+left: 50%;
+translate: -50%;
+padding: 20px;
+background-color: black;
+margin-bottom: 20px;
+
+</style>
+
+    
+     <script>
+  
+ window.location.href = "https://ongezell.com/";
+  </script>
+    <link href="" rel="stylesheet" type="text/css" media="all">
+  </head>
+
+  
+  <body>
+  
+  
+    
+  <div class="blog-post">
+<h1 class="entryTitle">VAN UPDATE</h1>
+<p class="dateTime">2023-11-26</p>
+<div class="post20231126">
+<p>Van is finally secured. Sadly, it's not a Kombi as I said before. initially the plan was finding the truck I just bought but it ended up being really hard lol, so we ended up giving up and settling for a Kombi. However, luck shone on me, and a MB180D in great condition appeared. We struck a GREAT deal on it.</p>
+<div style="position: relative;">
+  <img style="position: relative; left: 50%; transform: translate(-50%); width: 100%; z-index: 1;" src="https://77rx2b.github.io/3D-models/website/van-1.webp">
+  <img style="filter: drop-shadow(6px 6px 5px rgba(0, 0, 0, 0.1)); position: absolute; left: 12%; top: 44%; transform: translate(-50%); width: 25%; z-index: 2; border: none; outline: none;  pointer-events: none;" src="https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif"/>
+</div>
+
+
+
+
+<p>Also bought most of the things to start the interior setup. small stove with an oven (I got such a cute blue one), shower, Porta Potti, heater, and so on. I'll be buying the electrical components soon (solar panels, charge controller, batteries, inverters, etc.), as well as water reservoirs and getting a deck on the roof. There are lots of things to do, but being completely honest, the worst part is almost done.
+<p>Buying the van itself was a pain in the ass "still need to figure out the documents too so we aren't finished with it yet!", lol. well, more to come soon, I'll keep updating as we go.</p>
+<p>  </p>
+
+
+
+
+</div>
+</div>
+  
+  
+  
+  
+  
+
+<div class="blog-post">
+<h1 class="entryTitle">Saturday Sonar: ""Weekly"" Album Picks #6 <span class="subtext">NOT WEEKELY AT ALL Edition<span></h1>
+<p class="dateTime">2023-11-25</p>
+<div class="post20231125">
+<p>Kept you waiting, huh? Well, I've been lacking when it comes to updating the blog, and especially this series. I've been dealing with the motorhome build, political activism, jobs and writing. However, I think things are getting calmer as of now. To be honest, I'm just under the weather, so that gives me time to recommend some albums here.</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/topsters2.jpg"/></p>
+
+<p>Anyway, these are the albums I've been listening non stop these past few days</p>
+<p>
+<p><b>YURONONO - SPIDERLILY</b>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6e254qKyqxa3jwO2CA9Wi6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Nothing better than starting the list with a shoegaze album. Found this one while jumping from artist to artist on Spotify incidentally, a really nice way to discover good underground artists. Anyway, this album is genuinely relaxing. I think that many shoegaze artists nowadays suffer from a lack of their own identity. Can't say the same for Yuronono; most of her songs feel unique and are a good blend of experimental rock and shoegaze. It also doesn't feel half-baked; the quality in her songs is commendable, studio-like.</p>
+<p><b>THE SMITHS - The Queen Is Dead</b>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5Y0p2XCgRRIjna91aQE8q7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>No need to say much about this one. New wave classic with their biggest hits, Melancholic rock at its finest, no, I don't care about what you think about Morrisey. Just swing your hips and enjoy his depressive uptone tunes like everyone been doing for the past 40 years.
+<p><b>Common Holly - When I say to you Black Lightning</b>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4FABaVuuWnadFtU4pdQ9wH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>This was such a great find, peak indie folk, She's probably my favorite Canadian right now, her talent is not something to be ignored. Found her out while playing GVH (Goodbye Volcano High), terrible game story-wise, but I can't say the same for the art/music of it. She quite literally saved it with her songs, I mean, not really, but the songs are incredible anyway. So this is a two-for-one, listen to her works both, this album "+ other albums" and GVH soundtrack.
+<p><b>Lucy Dacus - Historian</b>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0LqhbUfmHsxovfSirhEIGu?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Another Folk/indie album, but this time from a Virginian native. She reminds me of Phoebe Bridgers and Soccer Mommy a bit, maybe Mitski in a way? (I like them all.) A calm album overall, though some tracks can be surprisingly chaotic in a great way.
+<p><b>Plumtree - Predicts the Future</b>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4ss4IGobJB38f1pgogEp7t?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>The new Scott Pilgrim show was premiered recently, so why not relive the best of early '90s Canadian indie rock, of course, with the band that coined the character. This album is Da Bomb. Also, watch the show, it's great.
+<p><b>Warren Zevon - Excitable Boy</b>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/03WJAI8NnJHvCNqnlLw8kg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Gone too soon, Damn you asbestos... Chicago legend, Warren Zevon is, in my opinion, one of the greatest musicians to have ever lived. A legend in Folk Rock, Excitable Boy has some of his greatest works: Roland the Headless Thompson Gunner, Veracruz, Lawyers, Guns and Money, to mention a few. All of the tracks in it are incredible. There's a peculiar feeling listening to these tracks, I can't quite put my finger on it but it's mysthical. 
+</div>
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+          <div class="blog-post">
+<h1 class="entryTitle">Relembrar</h1>
+<p class="dateTime">2023-11-13</p>
+  <p>
+  
+  
+
+
+<div class="post20231113">
+
+
+<p>Este mês completa 10 anos desde que eu te perdi. Dez anos, eu não consigo sequer compreender a quantidade de horas que isso representa. Pensar que tínhamos apenas 15 anos na época, completamente inconscientes de tudo.
+<p>Honestamente, acredito que tenho estado em negação desde então, até agora. Finalmente, a realidade me atingiu e dói tanto quanto o dia em que você se foi, pensar nisso e perceber que nunca mais vou poder falar com você, Mas como as lembranças estão muito vivas dentro de mim é assustador.
+<p>Eu posso te ver, mas não posso te tocar. Eu posso te ouvir, mas não posso falar com você. Você está aqui, mas ao mesmo tempo não está.
+<p>Espero que Deus esteja cuidando de você no ceu. Espero que sua visão agora seja afiada como um diamante, e espero que você continue a curtir o emo trash que tanto amava. Sinto sua falta mais do que você poderia imaginar.
+
+<p><iframe width="100%" height="400" src="https://vid.puffyan.us/embed/WoBLi5eE-wY?si=x4Z-qRQ90ftohw5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+</div>
+  
+        <div class="blog-post">
+<h1 class="entryTitle">Old timelapse of an unfinished piece</h1>
+<p class="dateTime">2023-09-30</p>
+  <p>
+
+<div class="post20231023">
+
+
+
+<p>Circa ending of 2022, I never ended up finishing this painting, I will eventually, probably. 
+
+<video class="embedded-video28102023" controls>
+    <source src="https://77rx2b.github.io/3D-models/website/202-08-27_14-15-05-2x-RIFE-RIFE4.0-60fps.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<p><img src="https://77rx2b.github.io/3D-models/website/Alice_and_the_bird_in_the_high_hat.webp"/>
+
+</div>
+</div>
+  
+  
+  
+      <div class="blog-post">
+<h1 class="entryTitle">Things I've been working on</h1>
+<p class="dateTime">2023-09-28</p>
+  <p>
+
+<div class="post20231023">
+<p>Don't know exactly what to do with these right now so I'll be posting them here
+
+
+    <style>
+        .embedded-video28102023 {
+            width: 100%;
+            margin: 10px; 
+        }
+        
+        
+        
+        #video-container28102023 {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch; /* Align items to stretch vertically */
+            height: 300px; /* Set a fixed height */
+           
+        }
+
+
+        .embedded-video28022302 {
+            width: 50%; 
+             margin: 2px;
+            object-fit: cover; 
+        }
+    </style>
+
+
+<p><img src="https://77rx2b.github.io/3D-models/website/renderlain.png"/>
+
+<video class="embedded-video28102023" controls>
+    <source src="https://77rx2b.github.io/3D-models/website/arma.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<video class="embedded-video28102023" controls>
+    <source src="https://77rx2b.github.io/3D-models/website/Video2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<video class="embedded-video28102023" controls>
+    <source src="https://77rx2b.github.io/3D-models/website/Video3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
+
+Older videos
+
+<div id="video-container28102023">
+    <video class="embedded-video28022302" controls>
+        <source src="https://77rx2b.github.io/3D-models/website/doc_2023-07-27_12-50-31.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <video class="embedded-video28022302" controls>
+        <source src="https://77rx2b.github.io/3D-models/website/doc_2023-07-27_12-50-42.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    </div>
+
+<p>Bonus catto
+<p><img src="https://77rx2b.github.io/3D-models/website/image.png"/>
+
+
+</div>
+</div>
+  
+  
+  
+  <div class="blogF">
+  
+    <div class="blog-post">
+<h1 class="entryTitle">Pensamentos continuação</h1>
+<p class="dateTime">2023-09-26</p>
+  <p>
+<p>Hello, went for another walk, here's another picture. I love the open fields of hills, nature is such a blessing.
+<div class="post20231023"><img src="https://77rx2b.github.io/3D-models/website/25.webp" /> 
+
+
+</div>
+</div>
+  
+  
+  <div class="blog-post">
+<h1 class="entryTitle">Pensamentos</h1>
+<p class="dateTime">2023-09-24</p>
+  <p>
+<p>I'll soon edit this post with some thoughts. For now, enjoy this picture I took today.
+<div class="post20231023"><img src="https://77rx2b.github.io/3D-models/website/IMG_2023102301.png" /> 
+<p>Man, fuck zionism. لَنْ نَرْضَى إِلَّا بِتَحْرِيرِ فِلَسْطِينَ مِنَ ٱلنَّهْرِ إِلَى ٱلْبَحْرِ.
+
+</div>
+</div>
+  
+<div class="blog-post">
+<h1 class="entryTitle">Politica</h1>
+<p class="dateTime">2023-09-24</p>
+
+
+   <div class="warning-overlay">
+      <div class="warning-text"> SO CONTROVERSIAL YOU NEED TO HOVER FOR 5 SECONDS TO READ!?!</div>
+    </div>
+<div class="post20230911">
+
+<style>
+
+
+
+.post20230911 {
+  padding: 8px;
+ filter: blur(10px);
+   border: transparent 1px solid;
+  max-height: 0;
+  overflow: clip;
+  transition: 5s !important;
+}
+
+.post20230911:hover {
+ filter: blur(0px);
+  border: red 1px solid;
+    max-height: 1500;
+
+}
+
+      .warning-overlay {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 25px;
+        background-color: rgba(255, 0, 0, 0.5); 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        pointer-events: none; 
+        opacity: 1
+        transition: opacity 0.3s ease; 
+      }
+
+
+      .post20230911:hover .warning-overlay {
+        opacity: 0;
+      }
+
+      .warning-text {
+        color: white;
+        font-weight: bold;
+        font-size: 17px;
+      }
+
+
+</style>
+
+<p>Little political mumble jumble, don't mind me. 
+
+<p>It's interesting that United States Republicans are always so eager to talk about deporting immigrants, when, in recent years, the time that immigrants were deported the most was during Obama's administration. Also, not to mention Biden's administration with all his new policies put in place to actually deport many Mexicans and Venezuelans who get caught in the border.
+
+<p>I think Trump was particularly good at making these populist "promises". His government promised a lot when it comes to deportation; however, it didn't really deport many people. Why, you might ask? Because from a capitalist, communist or any other ideological point of view, it's incredibly retarded to do so. In fact, it's counterproductive, period. The only people who would possibly consider doing that are the ones who want to see the economic downfall of a country and it's people or, as I mentioned earlier, are retarded. Most Estadounidenses (aka Americans) wouldn't take on simple repair jobs themselves.
+
+<p>Money isn't the problem in the United States, because they essentially create wealth; the problem is that the country sabotages itself constantly (while also fucking the entire world as well), you see that everything is dictated by corporations, which is pretty ironical when you stop to think about it, especially because nowadays, companies took notice to how profitable adhering to caviar "leftist" capitalistic policies is, the wealth "leftists" get amused and they don't need to do anything in regard to the poor. (You can see that with the horrible opioid crisis, which has arisen solely because of America's big pharma lobbying to prohibit cheap medicine that doesn't have patents, like dipyrone.) which is starting to be pushed around here too together with ""highly educated"" people losing their jobs "uh oh!" and housing getting EXTREMELY expensive.
+<p>I don't doubt that in some years, you will see democrats and republicans openly pushing for deportation and closed borders when corporations find a way for robots to do the job humans do (they will say it's humane) but in fact, the average person will just get incredible poorer and die while the rich get extremely richer and thrive.
+
+
+<p>Not to say that Trump was a good politician; he was an US politician. He ordered the death of Qasem Soleimani. I put him on the same level as the drone freak and serial killer we all know as Obama. to hell with both. to hell with all them actually.
+
+
+<p>Which, in my view, is the truth. US politics are horrible (Satanic even), and western politics, in general, are no better. I'm absolutely tired of all of this. Brazil became a joke of a country  when it tried to emulate the United States with the proclamation of the republic which rendered the country useless. (That by the way, was a coup that was made because the rich were pissed with the monarchy for the abolition of slavery),  It recently took the same divisive route as liberals and conservatives, left and right mindsets that have engulfed the United States, along with all the identity politics (Not referring to ethnicity identity, which is actually good and real).
+
+<p>I giggle a bit when I see people complaining about Immigration in Europe, Mostly France and the UK, These powers displaced so many people, they invaded other sovereign countries, removed all their wealth/resources and waged fake wars, so what did you expected? The wheels of God's justice grind slowly; but they grind to powder. not to mention that now these immigrants are just that, French and English. when you see violence in England or France is not because they are immigrants, it's because they became them, they got assimilated. superficial, Godless, consumerist, raised to be poor and dogs of corporatism, just like everyone else who are forced into poverty in those countries. there's not ethnicity, nothing, it's bland. the things that are still there are just superficiality that resembles something they are conditioned to believe they still are part of, you know why? because the rich think its cute, tokenism.
+
+<p>Going back to Brazilian politics, Particularly with Bolsonaro, who, is in every possible way a dumb useless fuck, and paved the way for Lula (another dumb useless fuck, yet dangerous) to be freed from prison, absolved, and reelected with all the maneuvers he used to protect his corrupt family from investigations.
+
+<p>Now We are forced to live under this unbearable government led by Lula and the Workers' Party (which has nothing to do with Workers, fake billionaires posing as communists to retain wealth), which hurts the poor in every imaginable way, raising taxes and living expenses while favoring the rich and looking good for the North American and European "progressive" world. I despise this. The West doesn't make any sense; it's, in every possible way, a sadistic walking contradiction.
+
+<p>I think I mentioned this before, but I am (or better, soon to be WAS) a member of an ultra-leftist party (which the state judge us to be). the party consider themselves Trotskyist, which is ironic considering their stances don't align with the identitarian-centric policies he had (which is really good, like I always say and I can't stress this enough, Identity politics is a cancer made by the powerful). We need to focus on the majority of us, the working class, the poor. Anyway, the party is probably disbanding soon because we were being persecuted by the judicial system censorship(aligned with the ""Workers'"" Party). So, yeah, hopefully, I can sell all my things and move to the Middle East to start a little farm. No need to die for a Godless cause. just have a family, live, actually collect from the land and have peace of mind and soul, It's sad to think that my ancestors got tricked into coming here for a better life just to find themselves working as slaves  in coffee plants and for the entire lineage to lose any type of ethinical culture and just become assimilated modern slaves as well.
+</div>
+</div>
+
+<div class="blog-post">
+<h1 class="entryTitle">Saturday Sonar: "Weekly" Album Picks #5</h1>
+<p class="dateTime">2023-08-26</p>
+<div class="post20230826">
+<p>Hello! Another Saturday Sonar has arrived. As you may have noticed, this doesn't happen every Saturday, mostly because I'm quite lazy. However, when I post these, I can guarantee bangers. </p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/topsters2.png"/></p>
+
+<p>Anyway, let's get started:</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/image_1.png"/></p>
+
+<p><b>First things first,</b> let's talk about the latest single from $uicideBoy$ called <b>"I No Longer Fear the Razor Guarding My Heel (V)."</b></p>
+
+<p>The three tracks on this have easily become my favorites from them. The video that goes along with the first song really hits differently. If you go back to their earlier albums, you'll notice they were all about satanism, drugs, and just heavy stuff.</p>
+<p>No doubt, those themes had a kind of allure, which made their songs super popular. But let's not forget that these deep lyrics come from a real place. $crim, in particular, was dealing with some serious drug problems and depression, and that's where these lyrics come from.</p>
+<p>Luckily, in 2019 $crim decided to get some help and went to rehab. It's a real blessing. Like I mentioned earlier, you can really feel the difference in their lyrics from back then to now.</p>
+<p>In the recent music video for <b>"Not Even Ghosts Are This Empty,"</b> you'll see Ruby and $crim going into a church and standing in front of a cross. It's a pretty clear symbol of how $crim found strength in his new found faith to overcome his addictions and fight his depression.</p>
+
+
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://77rx2b.github.io/3D-models/website/1472811864_b1dda54c1c_z.jpg"/></p>
+<p><b>Second,</b> We have <b>Carpenters by Carpenters</b>. This album is something else, every single song just makes you feel that dreamy vibe straight out of the 70s. Most of the tracks are sung by Karen, and her voice is just hypnotic, stunning even.</p>
+<p>Karen's presence was truly magical. It's hard to express how her passing was more than just tragic, it's beyond that honestly. Some people leave a permanent mark even in their short time on this planet. She's a prime example of that.</p>
+<p>Listening to this album takes me back to a time that I never even lived, and that's what good music does.</p>
+
+
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 70%;" src="https://77rx2b.github.io/3D-models/website/7a22d22ded3822b3c5293d270492344f.webp"/></p>
+<p><b>In third</b>, we have <b>"The Bitter End" by Placebo</b>. I don't know exactly how to categorize Placebo as a band because their sound is quite androgynous (pun intended). It's punk that is also soothing, and I find that quite amusing. This has to be my favorite album of theirs when it comes to tone.</p>
+
+<p>Instead of the glam tuning, you have this gloomy feel that, paired with the weird guitar lines and Molko's nasal voice, works in a pretty good way. Honestly, I haven't listened to their discography past 2006 with "Meds," even though they're one of my most played bands. However, I'll probably give them a listen soon.</p>
+
+
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/deftones_1997_ml_03_copy.jpg"/></p>
+<p><b>For the final piece</b>, here comes <b>"Around the Fur" by Deftones</b>. Without a doubt, it's one of my favorite albums ever, and obviously, one of the most played (I love the cover art on this one). It's pure nu metal; this album has calm tracks, aggressive tracks, and blends of the two. The vocals are on point, as is the instrumental. Not to mention, it becomes incredibly loud when it needs to. All the 10 tracks within it are a must-listen, especially "Be Quiet and Drive (Far Away)" and "My Own Summer (Shove It)."
+<p>As for a random recommendation, I rarely smoke, but try lighting up a Cuban cigar while listening to this album on a rainy day – for some reason, it just works.</p>
+
+<p>Well, é isto meus amigos, tenham uma boa semana!</p>
+</div>
+</div>
+
+  <!--
+<div class="blog-post">
+    <h1 class="entryTittle">Introducing CollaboraCanvas Beta</h1> <br>
+    2023-08-15<br>
+
+    <p><a href="https://collaboracanvas.neocities.org/" target="_blank"><img style="position: relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/image_2.png" alt="CollaboraCanvas Preview"></a></p>
+
+    <p>
+    Sup, beautiful bastards! I am excited to announce the launch of CollaboraCanvas, the interactive chalkboard tool showcased here on my website. It has now transformed into a full-fledged service.
+    </p>
+
+    <p>
+    The basic version is already available for purchase. You can experience a live test on the <a href="https://collaboracanvas.neocities.org/" target="_blank">CollaboraCanvas website</a> or find it on the left side of this page. The concept is elegantly simple: it's a virtual bulletin board that enables your users to interact, leaving messages and images for the world to see. This tool provides an excellent platform for engaging with your followers.
+    </p>
+
+ <p>
+    The basic subscription is priced at <b>$9.99 USD per month</b>, but you have the option to save with an annual subscription at <b>$100 USD</b>, offering a <b>15% discount</b>. Upon purchasing, you will receive an email containing an iframe code for integration into your website, along with a master password for moderating content on your platform.
+    </p>
+    
+    <p><a href="https://collaboracanvas.neocities.org/" target="_blank"><img style="position: relative; left: 50%; transform: translate(-50%); width: 100%;" src="https://77rx2b.github.io/3D-models/website/image_3.png" alt="CollaboraCanvas Preview"></a></p>
+    
+  <p>The plan is to release the Standard & Pro plans in the coming months. Upgrading will be available, and if you choose to upgrade, we can offer a discount based on the price you paid for the basic version. The basic version will still receive new features; however, funding is needed to implement them, especially AI moderation. The standard version will allow users to post custom divs instead of just text and images, adding an element of fun and perhaps some chaos as well.</p>
+  
+  <p>Well that's it, thank you for reading!
+
+</div>
+
+  -->
+  
+
+<div class="blog-post">
+<h1 class="entryTitle">Saturday Sonar: Weekly Album Picks #4 <span class="subtext">New format edition<span></h1>
+<p class="dateTime">2023-08-13</p>
+<div class="post20230813">
+<p>Welcome to another Saturday! After losing another Saturday because I was too busy listening to music and working, and not actually writing about it, here we are. Hopefully, the new 3D visuals make for a more immersive experience. Hopefully, you guys can run this. I mean, my dying $20 2GB 960 that I bought from a Chinese mining farm on AliExpress can run it, so can you!</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 90%;" src="https://77rx2b.github.io/3D-models/website/topsters2_1.png"/></p>
+
+<p>Anyway, let's get started:</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/R-2862073-1305072194.jpg"/></p>
+<p><b>FIRST:</b> In first (NUMERO UM) place, we have <b>Mindless Self Indulgence</b>'s PEARL of an album with the best motherfucker album cover art that could ever be – <b>Frankenstein Girls Will Seem Strangely Sexy (2000)</b>. Just the fact that the album cover was drawn by Jamie Hewlett already makes it a good album. I love his art. I carry it on my skin.</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/image_4.png"/></p>
+<div style="text-align:center;">Literally, look at my arm</div>
+<p>Anyway, this is a great album, completely chaotic, all over the place, with a beautiful feeling of the late '90s and early 2000s. Gotta love piss (Jimmy Urine), yeah, that's his name. My recommendations for this one are FAGGOT, the F word, Not FAGGOT, I'm talking about the F song. Believe it or not, there are two F words in this album: Cocaine and Toupees, Bitches and Masturbates.</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/efc5fe72f163cef397a25ef633bd5978.webp"/></p>
+<p><b>SECOND:</b> <b>宇宙ネコ子 - 君のように生きれたら (Kimi no Youni Ikiretara by Uchuu Nekoko)</b> is a chill shoegaze album by the Japanese duo Uchuu Nekoko. Lyrics about love and chilling, whispering voice tones, and incredible melodies. Interesting song name choices too, like Virgin Suicide. The first time I saw this album, I thought it would be some kind of Shock rock, but that's not the case. Anyway, listen to it in its entirety and give the other albums a try too – it's completely worth it.</p>
+
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://77rx2b.github.io/3D-models/website/red-taylors-version.jpg"/></p>
+<p><b>THIRD:</b> <b>Taylor Swift - Red (Taylor's Version)</b>, as always, Taylor is back for another recommendation. This is a re-recording of the Red album from 2013. Different from the last one I reviewed, this is possibly peak Taylor. Probably my second favorite album of hers. I miss her country-pop days so much, you have no idea. And of course, "22" is on this, so it's a perfect night to dress as hipsters and have breakfast at midnight while listening to it.</p>
+
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/min_vietnam_top_50_241.jpeg"/></p>
+<p><b>FOURTH:</b> <b>Min - 50/50</b>. You know, forget that South Korean shit; we're into V-POP, Vietnam, We fuck with Ho Chi Minh up in this bitch. Solid album. I love how the Vietnamese language sounds, and Min has a really beautiful voice. "Cà phê" is probably my favorite track on this one.</p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 80%;" src="https://77rx2b.github.io/3D-models/website/Chelmico.webp"/></p>
+
+<p><b>FIFTH:</b> <b>Chelmico - gokigen</b>. Chelmico is probably one of my favorite duos, not only in Japan but probably anywhere. I absolutely love their sound. Rachel and Mamiko are absolutely crazy, and the instrumentals go absolutely wacky sometimes – in a good way. This album is an example of it. You have cozy songs like "COZY" and then crazy stuff like "O. La" that sounds like a mixture of Samba, Rap, and Electropop.</p>
+
+<p><b>SIXTH:</b> <b>...Baby One More Time - Britney Spears</b></p>
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 60%;" src="https://77rx2b.github.io/3D-models/website/FHtRSIZXEAQJxtT.jpg"/></p>
+<p>The second longest album trackwise on the list. I have damn good memories of this one – driving near the Rio de Janeiro shoreline, listening to "Soda Pop" with a beautiful sunny day, or even karaoke-ing "Sometimes" and "Born to Make You Happy" at 1am with your friends. If you don't enjoy Britney, you're a fool. Me, Tony Montana, Henry Hill, Nicky Santoro, and Tony Soprano will whack your sorry ass. Capisce?</p>
+<p>That's it for this week. Vejo vocês na próxima, canalhas!</p>
+</div>
+</div>
+
+
+
+
+<div class="blog-post">
+<h1 class="entryTittle">Wishlist Orbo's Odyssey right now</h1> 
+
+<p class="dateTime">2023-08-09<p>
+
+<iframe src="https://store.steampowered.com/widget/2539960/" style="position:relative; left: 50%; transform: translate(-50%); width: 50%; " frameborder="0" width="646" height="190"></iframe>
+<p>
+My two exceptionally talented game developer blokes are releasing their first game on Steam, Orbo's Odyssey. They have invested a tremendous amount of effort into this project, so please consider adding it to your Steam wishlist. The movement mechanics in this game are truly extraordinary, and you will have immense fun while playing.
+</div>
+
+
+
+<div class="blog-post">
+<h1 class="entryTittle">New project and maintenance</h1> 
+<p class="dateTime">2023-08-01<p>
+
+
+<p><img style="position:relative; left: 50%; transform: translate(-50%); width: 50%; " src="https://media.tenor.com/vbrYT3JdFbAAAAAd/osaka-spin.gif"/>
+<p>Welcome! As you can probably see, the website is yet again going through a major "rework." I was working on the game (project one) and thought, well, wouldn't it be interesting if my website was basically a hub for all my projects/interests in a really interactive way? Yeah, it would. So, I started working on this. Lain model is here doing some G59 hand signs because we fuck with $uicideboy$. Anyway, three.js is a really good framework, and I love it. However, rendering DOM elements on it has its problems. My home page is full of effects, and that's pushing my 960 to max out, which is probably a memory leak. So, I have to find a way to really optimize it. The main page will be disabled for a bit until I figure out what to do (which I will probably do tomorrow).
+
+</div>
+
+
+
+<div class="blog-post">
+<h1 class="entryTittle">Saturday Sonar: Weekly album picks #3</h1> 
+<p class="dateTime">2023-07-29<p>
+
+<p>Well, I fucked up, forgot to post last  week, desculpa!
+<p>
+
+<img style="position:relative; left: 50%; transform: translate(-50%); width: 50%; " src="https://media.tenor.com/rnwwyTaGQh0AAAAM/ehe-anime.gif"/>
+
+<p>anyway, another week another set of recommendations!
+
+<p> <h2 class="songTittles">Highwayman <br> The Highwaymen - (1985)</h2> 
+
+
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed.jpg" alt="Highwayman"></a>
+
+<p>When the topic of country music comes to mind, I can't help but think of some of the greatest names in the genre. What makes this particular group/album truly special is that it brings together four of these legendary names: Johnny Cash, Waylon Jennings, Kris Kristofferson, and Willie Nelson.
+<p>This album holds a place of honor among the greatest in country music history, and one song, 'Highwayman,' stands out as an incredible and timeless masterpiece in the country music canon.
+  <h2 class="songTittles">13 Songs  <br> FUGAZI - (1989) </h2>
+</p>
+
+
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_1.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_1.jpg" alt="13 songs - Fugazi"></a>
+
+
+<p>Fugazi is one of the best post-punk bands to have ever graced the earth. This album is an amalgamation of what can be called their best songs. So, give it a listen. This is not just a recommendation; if you've never listened to Fugazi, get your shit together and listen to this now.
+
+<p>
+
+<p><h2 class="songTittles">Midnights<br>Taylor Swift (2022)</h2></p>
+
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_2.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_2.jpg" alt="Taylor Swift - Midnights"></a></p>
+
+
+<p>I really like Taylor Swift. Carly Rae Jepsen is great too, but this Saturday is Taylor Swift's time to shine. Anyway, I'm a big fan of old-era Taylor Swift, especially her country girl albums. Her recent remake of Fearless, entitled Fearless - (Taylor's Version), was like a literal gift to me. However, I'm starting to like more and more of her recent work, with some exceptions. <p>Not the case with 'Midnights' though, this album is really good. EXCEPT for the deluxe version, which is a considerable downgrade, especially because it includes the version of 'Karma' featuring the horrible singer 'Ice Spice.' This is something I'd like to talk about in the future, by the way - how record labels coerce artists into making dumb ass collabs for exposure and also force them to completely do a 180 with their careers to adapt to what is hip and cool.
+
+Anyway, the songs here are really catchy, perfect for night trips, and surprisingly comforting on rainy days.
+
+<p><h2 class="songTittles">Synthetica <br>  Metric - (2012)</h2></p>
+
+
+
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_3.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_3.jpg" alt="Synthetica - Metric"></a>
+
+<p>Metric is a really good band, probably one of the most memorable Canadian indie rock bands. I love Emily Haines; she is a really talented artist who simply cannot make songs that are not catchy. This whole album has a distinct 2010s essence. My particular song recommendations are 'Lost Kitten' and 'Artificial Nocturne'.
+
+<p><h2 class="songTittles">Red Flag <br>   Sophia Battaglini  (2023)</h2></p>
+
+
+
+<p><a class="fancybox" data-fancybox="albumSSW3" href="https://77rx2b.github.io/3D-models/website/unnamed_4.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_4.jpg" alt="Red Flag - Sophia battaglini"></a>
+
+<p>Not really an album, but a single. Sophia is an incredibly talented Venezuelan musician that I've been listening to lately. <p>This single just dropped, and I absolutely recommend it. Her style kinda reminds me of Emily Haines in some ways; however, she somehow manages to be incredibly calm and soothing with her vocals and instrumental in a really unique way.
+
+<p>That wraps up this Saturday's recommendations. I hope you find these albums enjoyable. See you next Saturday!
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+
+<h1 class="entryTittle">Lain in minecraft?</h1> 
+<p class="dateTime">2023-07-29<p>
+  
+<style>
+
+
+
+.post280723{
+position: relative;
+max-width:100%;
+left:50%;
+translate: -50%;
+}
+</style>  
+
+  Ported my Lain model to minecraft <br> <br>
+
+    <video class="post280723" controls>
+        <source src="https://77rx2b.github.io/3D-models/website/Video2_1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="blog-post">
+<h1 class="entryTittle">Saturday Sonar: Weekly album picks #2</h1>
+<p class="dateTime">2023-07-15<p>
+
+
+<p>Another week, another set of recommendations.
+
+<p> <h2 class="songTittles">Skylight <br> Pinegrove - (2018)</h2> 
+
+
+<p><a class="fancybox" data-fancybox="albumSSW2" href="https://77rx2b.github.io/3D-models/website/791861570045241.webp"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/791861570045241.webp" alt="Everything So Far"></a>
+
+<p>I've always believed that Pinegrove is severely underrated, so it was quite satisfying to witness them catching the attention "even if it's because of the zoomer algorithm." It's about time they receive the recognition they deserve. This album features some really cozy and calm songs. my personal favorites are Darkness, Easy Enough and Light on.
+<p>
+  <h2 class="songTittles">Группа крови - Kino<br>Gruppa Krovi - Kino - (1988) </h2>
+</p>
+
+
+<p><a class="fancybox" data-fancybox="albumSSW2" href="https://77rx2b.github.io/3D-models/website/77634a7b913b2cdb.png"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/77634a7b913b2cdb.png" alt="Kino - Gruppa Krovi"></a>
+
+
+<p>I can't stress enough how amazing Soviet music is, and Kino is with the lack of a better word *KINO*, he truly shines as one of the most exceptional songwriters from the golden era of Soviet rock. His songs are simply remarkable, and the album "Gruppa Krovi" is an absolute must-listen.  If you're a fan of Soviet rock or simply appreciate great music, this album should be at the top of your playlist. you won't be disappointed.
+
+<p>
+
+<p><h2 class="songTittles"> Desire, I Want To Turn Into You <br>Caroline Polachek (2023)</h2></p>
+
+<p><a class="fancybox" data-fancybox="albumSSW2" href="https://77rx2b.github.io/3D-models/website/a4080748776_65.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/a4080748776_65.jpg" alt="Caroline Polachek - Desire, I Want To Turn Into You"></a></p>
+
+
+<p>I'll be honest, I wasn't a big fan of Polachek's solo work initially. However, this album has really grown on me. It's filled with catchy tracks that have become my favorites for road trips. There's just something about listening to them while driving that adds an extra layer of enjoyment to the journey. Give it a shot next time you're on the road.
+
+<p><h2 class="songTittles">kimi wo omotte iru <br>  kurayamisaka (2022)</h2></p>
+
+
+
+<p><a class="fancybox" data-fancybox="albumSSW2" href="https://77rx2b.github.io/3D-models/website/a2213085306_16.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/a2213085306_16.jpg" alt="Kimi wo Omotte Iru"></a>
+
+<p>I discovered this band on Bandcamp last year, and I have to say, they have a really great sound. Not only that, but their album covers are pretty cool too. If you're into the Japanese indie scene or just looking for something new to listen to, I highly recommend checking them out. They're definitely worth a listen.
+<p>You can listen to them for free right here, if possible support them buying their album: <a href="https://kurayamisaka.bandcamp.com/album/kimi-wo-omotte-iru">Listen to Kurayamisaka</a>
+
+<p>That wraps up this Saturday's recommendations. I hope you find these albums enjoyable. See you next Saturday!
+
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+
+<h1 class="entryTittle">We vibing</h1>
+<p class="dateTime">2023-07-10</p>
+<style>
+.post100723{
+position: relative;
+max-width:50%;
+left:50%;
+translate: -50%;
+}
+</style>  
+
+  We do be vibing <br>
+
+<a href="https://77rx2b.github.io/3D-models/website/358545565_250031177741055_9166345475893087767_n.jpg" data-fancybox data-caption="We schizoing">
+  <img class="post100723" src="https://77rx2b.github.io/3D-models/website/358545565_250031177741055_9166345475893087767_n.jpg"></img>
+</a>
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+<h1 class="entryTittle">Saturday Sonar: Weekly album picks #1</h1>
+<p class="dateTime">2023-07-08
+
+
+
+<p>Hey, we're switching things up a bit, and I'd like to make this a regular occurrence—specifically, a Saturday tradition.
+<p>As someone who listens to music a lot, this will be an opportunity to share some albums I really enjoy, without any specific theme in mind. Anyway, let's jump right in.
+
+<p> <h2 class="songTittles">「 若気ガイタル 」- 新しい学校のリーダーズ」<br>  Wakage Ga Itaru - Atarashii Gakko! - (2019)</h2> 
+
+
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/VICL-65130.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/VICL-65130.jpg" alt="Wakage Ga Itaru"></a>
+
+<p>When it comes to unique songs, Atarashii Gakko is truly exceptional. This album is a testament to their talent. <p> I highly recommend the tracks "楽園にて、わたし地獄" (Rakuen nite, watashi jigoku), "ストリッパーに栄光を" (Sutorippā ni eikō o), and "雨夜の接吻" (Uraya no seppun). The blend of Jazz and J-pop in these songs is exceptional, making them an immensely pleasurable listen overall.
+
+<p> <h2 class="songTittles">I Need to Start a Garden <br>  Haley Heynderickx - (2018) </h2> 
+
+
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/I_Need_to_Start_a_Garden.webp"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/I_Need_to_Start_a_Garden.webp" alt="I Need to Start a Garden"></a>
+
+<p>I'm a sucker for Indie Folk, and bands that capture that vibe truly resonate with me. Heyndericks's debut album is a prime example of high-quality work. The melodies are incredibly gentle, and her voice, along with the masterful fingerpicking techniques, creates a marvelous cohesion throughout the album. One track that stands out is "The Bug Collector," which exudes a captivating aura, reminiscent to me of the emotionally charged songs by Cartola, a great Brazilian musician, as well as elements of Argentinean regional music.
+
+<p>
+
+<p> <h2 class="songTittles">YIN YANG TAPES - ALL SEASONS (1989-1990) <br> $uicideboy$ - (2023) </h2> 
+
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/81XIUOoQLOL._US2896_BL50_BG343434_CLa_28962896_81XIUOoQLOL.jpg81gqvCESgkL.jpg81fIbdFzBBL.jpg81Xz1bzS5qL.jpg_00289628960014481448144801448144801448144814481448144814481448_UXNaN_FMjpg_Q.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/81XIUOoQLOL._US2896_BL50_BG343434_CLa_28962896_81XIUOoQLOL.jpg81gqvCESgkL.jpg81fIbdFzBBL.jpg81Xz1bzS5qL.jpg_00289628960014481448144801448144801448144814481448144814481448_UXNaN_FMjpg_Q.jpg" alt="YIN YANG TAPES - ALL SEASONS"></a>
+
+
+<p>$uicideboy$ is undoubtedly one of my favorite, if not my absolute favorite trap-metal group. The album visuals, particularly the video clips released on their YouTube channel, are an experience in themselves. Besides the striking visuals, it's truly heartening to witness the growth of $crim and Ruby in terms of their mental well-being, which is particularly evident in this album. Take, for instance, "5 'N the Mornin'," where Blanco's lyrics convey the sentiment that "Life can be fucked up, but I'm grateful to be here." These albums have genuinely left me feeling content and satisfied.
+
+<p> <h2 class="songTittles">All Things Must Pass <br> George Harrison - (1970) </h2> 
+
+
+
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/unnamed_5.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_5.jpg" alt="All Things Must Pass"></a>
+
+<p>George Harrison, one of my all-time favorite artists and undeniably my favorite Beatle, created a masterpiece with "All Things Must Pass." This album is an absolute must-listen, as it carries significant messages of spirituality and introspection. If you are a believer, this album serves as a beautiful testament to faith and the essence of life itself. Its profound impact resonates deeply, making it an essential addition to any music collection.
+
+<p> <h2 class="songTittles">We Must Become the Pitiless Censors of Ourselves <br> John Maus - (2011) </h2> 
+
+<p><a class="fancybox" data-fancybox="album1" href="https://77rx2b.github.io/3D-models/website/unnamed_6.jpg"><img class="albumcovers" src="https://77rx2b.github.io/3D-models/website/unnamed_6.jpg" alt="We Must Become the Pitiless Censors of Ourselves"></a>
+
+<p>Among John Maus's discography, this album stands out as my personal favorite. Each track possesses an enchanting quality that remains captivating no matter how many times you listen to it. Maus's distinctive style of Synth-Pop is truly mesmerizing, offering a musical experience that is truly unparalleled. I highly recommend watching the performance of <a href="https://www.vid.puffyan.us/watch?v=balitii8_Xg">"The Man Who Would Never Be... What They Made Him To Be"</a>" from MDE: World Peace, which features the song "Cop Killer." The entirety of the performance is nothing short of incredible, leaving a lasting impression on anyone who witnesses it.
+
+<p>That wraps up this Saturday's recommendations. I hope you find these albums enjoyable. See you next Saturday!
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+
+<h1 class="entryTittle">Operation Big Brother's Bane: The Arrival of Big Sister Eyes</h1>
+<p class="dateTime">2023-07-06</p>
+<p>Post soundtrack:
+
+
+
+<iframe width="100%" height="100%" src="https://vid.puffyan.us/embed/t0IN7ZL2SaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Radio Operator: SmokeTeam6, this is Base, over.</p>
+
+<p>SmokeTeam6: This is SmokeTeam6, receiving you loud and clear, Base. What's the situation, over?</p>
+
+<p>Radio Operator: SmokeTeam6, we have an update on Operation Big Brother's Bane. The target package, codename "<a href="https://inpieces.rip/" target="_blank">Didntask</a>," is en route. ETA to destination, T-minus 5 minutes. I repeat, T-minus 5 minutes, over.</p>
+
+<p>SmokeTeam6: Copy that, Base. Maintain visual on the target package and stand by for further instructions, over.</p>
+
+<p>Radio Operator: Affirmative, SmokeTeam6. Target package is a <a href="https://ongezell.com/#!/big+sister+eyes-A6494507f85d7dc7ce532f302?productType=31&sellable=924b2d2zqXTR5rNEAxdj-31-32&appearance=1&size=29" target="_blank">ceramic coffee mug</a>, disguised as a harmless beverage container. Inside lies the key to defeating Big Brother and his pervasive surveillance. Our intel suggests "<a href="https://inpieces.rip/" target="_blank">Didntask</a>" is the chosen one to wield this power. We cannot afford any mishaps, over.</p>
+
+<p>SmokeTeam6: Understood, Base. We'll ensure the safe arrival of the target package. Our extraction team is standing by, ready to deliver liberation in the form of a steaming cup of coffee. We won't let "<a href="https://inpieces.rip/" target="_blank">Didntask</a>" down, over.</p>
+
+<p>Radio Operator: That's the spirit, SmokeTeam6. Remember, this mug holds the potential to shatter the chains of surveillance. Stay focused and deliver that freedom-inducing elixir without fail. Base out.</p>
+
+<p>SmokeTeam6: Roger that, Base. We'll secure the perimeter and await the arrival of the target package. Operation Big Brother's Bane is a go. SmokeTeam6 out.</p>
+
+<p>[Five minutes later...]</p>
+
+<p>SmokeTeam6: Base, this is SmokeTeam6. The package has arrived at its designated location. I repeat, the package has touched down safely, over.</p>
+
+<p>Radio Operator: Excellent work, SmokeTeam6. We couldn't have asked for a smoother delivery. "<a href="https://inpieces.rip/" target="_blank">Didntask</a>" will soon possess the means to confront Big Brother's watchful gaze. Prepare for extraction, over.</p>
+
+<p>SmokeTeam6: Copy that, Base. Extraction team, move in and secure the target package. We have accomplished our mission. The mug, codenamed "<a href="https://ongezell.com/#!/big+sister+eyes-A6494507f85d7dc7ce532f302?productType=31&sellable=924b2d2zqXTR5rNEAxdj-31-32&appearance=1&size=29" target="_blank">Big Sister Eyes</a>," has been delivered. SmokeTeam6 out.</p>
+
+<p>Radio Operator: Mission accomplished, SmokeTeam6. Head back to base for debriefing and recharge your own spirits. Base out.</p>
+
+<p>SmokeTeam6: Wilco, Base. Returning to base for debriefing. Over and out.</p>
+
+<p>[The mug successfully arrives at its destination, ready to empower "<a href="https://inpieces.rip/" target="_blank">Didntask</a>" in their quest against Big Brother and his invasive surveillance.]</p>
+
+<img src="https://77rx2b.github.io/3D-models/website/IMG_20230706_1640271842.jpg" />
+
+
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+
+<h1 class="entryTittle">Fractured Reflections: Exploring France's Socio-Political Predicament</h1>
+<p class="dateTime">2023-07-03</p>
+
+<style>
+    .blogF .bodyChat {
+        font-family: "Times New Roman", serif;
+        font-size: 18px;
+        line-height: 1.5;
+        margin: 20px;
+    }
+
+    .blogF .author {
+        font-weight: bold;
+    }
+
+    .blogF .date {
+        font-style: italic;
+        color: #999999;
+        margin-bottom: 5px;
+    }
+
+    .blogF .message {
+        margin-left: 20px;
+        padding-bottom: 20px;
+    }
+</style>
+
+<div class="bodyChat">
+
+<h1>Synopsis:</h1>
+  <p>In "Fractured Reflections," The Communist Party of China (me) engages in a thought-provoking dialogue with The Gweedo Enjoyer and Glarm Sloopy. The conversation revolves around the ongoing riots in France and their underlying causes. The trio delves into the historical context of colonization, marginalized communities, and the challenges faced by first-world nations. As they discuss potential solutions for integration and societal harmony, they grapple with the ambiguous notion of what it truly means to be French. Through their exchanges, the text raises questions about identity, inclusivity, and the complex interplay between religion, culture, and societal acceptance. "Fractured Reflections" offers an insightful exploration of the multifaceted issues confronting modern France, leaving readers pondering the path to meaningful change and unity.</p>
+
+    <div class="message">
+        <span class="author">Glarm Sloopy - <span class="date">Today at 9:18 AM</span></span><br>
+        <span>Indeed, the recent events have been quite tumultuous. Could you provide some insight into the root causes of the ongoing riots?</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:20 AM</span></span><br>
+        <span>The riots originated from an unfortunate incident involving an unlicensed 17-year-old driver who, upon being pursued by the police, attempted to escape and was ultimately shot, resulting in his untimely demise.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:21 AM</span></span><br>
+        <span>While the occurrence of riots is regrettable, resorting to violence cannot be deemed as a solution. In comparison, the United States experienced significant turmoil during what eventually transpired as relatively peaceful protests.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:23 AM</span></span><br>
+        <span>One could argue that France's present circumstances are a consequence of their own actions. Their involvement in destabilizing the Middle East and Africa has led to the suffering and exploitation of countless individuals.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:23 AM</span></span><br>
+        <span>Undoubtedly, colonization is an abhorrent practice, and setbacks may be considered justifiable. However, how exactly are these riots linked to the historical context of colonization?</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:24 AM</span></span><br>
+        <span>Indeed, they are intricately connected.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:24 AM</span></span><br>
+        <span>Could you please elaborate? I was under the impression that the riots were primarily concentrated in Paris and its environs.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:24 AM</span></span><br>
+        <span>No, that is not the case.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:25 AM</span></span><br>
+        <span>It would indeed be intriguing if the former French colonies were to gain independence.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:28 AM</span></span><br>
+        <span>The current reality is that these colonies have been fully exploited, and reversing the effects of their historical exploitation seems implausible. However, it is essential to note that colonization itself is not the primary cause; rather, it is the ongoing war and subsequent displacement that has led to an influx of marginalized individuals seeking refuge in Europe.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:29 AM</span></span><br>
+        <span>Indeed, such challenges seem to be recurring themes within many first-world nations.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:30 AM</span></span><br>
+        <span>I would contend that, at present, Europe, particularly France, is facing more significant challenges than the United States.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:30 AM</span></span><br>
+        <span>Agreed. In the United States, the current situation could be characterized as relatively stable, although it is crucial to acknowledge the persistent issues that underlie our societal fabric. Meanwhile, Europe is grappling with numerous complex predicaments.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:31 AM</span></span><br>
+        <span>Furthermore, individuals immigrating to the United States often find opportunities to establish themselves and integrate into society through the pursuit of work. In France, however, a significant influx of displaced people has converged within a nation plagued by political and social instability.</span>
+    </div>
+    <div class="message">
+        <span class="author">Glarm Sloopy — <span class="date">Today at 9:32 AM</span></span><br>
+        <span>My previous comment did not solely pertain to the United States; it was a broader observation encompassing first-world nations in general.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 9:32 AM</span></span><br>
+        <span>Within France, we witness a state of disarray where individuals feel lost and alienated, grappling with a fractured worldview. Born in France as children of displaced immigrants, returning to their countries of origin would entail yet another cycle of displacement. Unfortunately, I see no clear solution as France has essentially sown the seeds of its own predicament.</span>
+    </div>
+    <div class="message">
+        <span class="author">Gweedo Enjoyer — <span class="date">Today at 10:23 AM</span></span><br>
+        <span>Indeed, the circulation of weapons in the aftermath of the war has had its consequences. However, I posit that the riots are not orchestrated by any specific group; in fact, such a group does not exist. Furthermore, aside from regrettable accidents, no deaths have occurred. Instead, it is the mafia's involvement in procuring these weapons that deserves scrutiny. It is worth noting that the intensity of the riots is gradually subsiding.</span>
+    </div>
+    <div class="message">
+        <span class="author">The Communist Party of China — <span class="date">Today at 10:25 AM</span></span><br>
+        <span>The decreasing intensity can be attributed to the participants treating the events as a form of entertainment.</span>
+    </div>
+    <div class="message">
+        <span class="author">Gweedo Enjoyer — <span class="date">Today at 10:25 AM</span></span><br>
+        <span>While I am personally indifferent towards the destruction of property, as it is merely a superficial consequence, it appears that the participants are engaging in revelry, availing themselves of free goods, and expressing their grievances towards law enforcement. The prospect of military involvement, as mentioned by the state, is universally unwelcome.</span>
+    </div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 10:36 AM</span></span><br>
+    <span>I don't believe France is doomed solely because of immigration. I contend that the underlying reasons lie elsewhere. The country needs to address issues such as elitism, provide equal job opportunities, and ensure a decent quality of life for all its citizens.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 10:39 AM</span></span><br>
+    <span>France's challenges do not stem primarily from immigration but rather from its own actions. The country has fostered poverty and marginalization within its borders. Rather than lifting people up, France has allowed them to languish in slums. Much of the radicalism witnessed in the past decades has emerged from these marginalized communities in Europe. Superficial solutions will not suffice, and until the root causes are addressed, meaningful change is unlikely.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 10:48 AM</span></span><br>
+    <span>I disagree with the notion that solutions are superficial, particularly from a leftist perspective. However, I do acknowledge the challenges they face in winning widespread support.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 10:48 AM</span></span><br>
+    <span>Even if the leftists were to succeed, it is crucial that they focus on integrating marginalized individuals into society, moving them out of segregated slums. Merely providing jobs without addressing the underlying issues of segregation and exploitation will only perpetuate the problem.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 10:54 AM</span></span><br>
+    <span>I am skeptical that integration, as commonly understood in France, will be effective. Instead, we should accept people as they are and find ways to coexist. From my personal experience living with them, I can attest that they are profoundly French in their desires for employment and financial stability; they simply lack the means to pursue those avenues.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 10:57 AM</span></span><br>
+    <span>I disagree with that perspective, as these marginalized individuals are products of exploitation and segregation. The pursuit of jobs and money, while important, is merely superficial. Without addressing the root causes of segregation and exploitation, such endeavors will likely result in continued exploitation and further marginalization.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 10:59 AM</span></span><br>
+    <span>What, then, do you propose as an alternative to integration? The current approaches have shown limited success, as demonstrated by the lack of progress thus far. Imposing strict demands, such as removing religious symbols, has not yielded positive outcomes.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:00 AM</span></span><br>
+    <span>Indeed, the shortcomings lie with France's approach. However, it is important to note that the issue is not about their religious identity, as they are not defined solely by their religion.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:00 AM</span></span><br>
+    <span>Furthermore, the individuals in question are not akin to those living in favelas. They possess literacy and exhibit good interpersonal skills. Their adherence to religion is primarily superficial.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:00 AM</span></span><br>
+    <span>Indeed, they are superficially connected to their religion.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:01 AM</span></span><br>
+    <span>However, their attachment to religion persists due to the rejection they face. Integrating them should involve accepting them as they are rather than trying to change their religious identity forcefully.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:01 AM</span></span><br>
+    <span>Indeed, ascribing superficiality to faith-based matters can be dangerous. Integration should aim to make them part of both French society and their cultural background.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:02 AM</span></span><br>
+    <span>But what does it truly mean to be French? The concept itself is ambiguous and open to interpretation.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:02 AM</span></span><br>
+    <span>Precisely.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:02 AM</span></span><br>
+    <span>At some point, we must make a decision.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:02 AM</span></span><br>
+    <span>Being French does not hold any meaning.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:02 AM</span></span><br>
+    <span>From my perspective, being French entails embracing a culture of revolution, literature, and other aspects. This culture is open to everyone, regardless of their religious beliefs. However, many individuals are fixated on abstract ideas such as military tradition, Napoleon, or the Gauls.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:04 AM</span></span><br>
+    <span>Nonetheless, the problem extends beyond these specific individuals. Most French people lack a distinct identity and are being assimilated into superficiality. Brazilians face a similar predicament. Integration, in this case, becomes futile due to the absence of a solid foundation to integrate them into. Thus, this problem seems to be permanent.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:06 AM</span></span><br>
+    <span>Our perspectives on this matter seem to diverge.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:06 AM</span></span><br>
+    <span>The ultimate solution lies in addressing the issues present in their home countries, enabling them to thrive and escape their current predicament.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:06 AM</span></span><br>
+    <span>Understandably, another country may step in if the circumstances permit. Realistically, we can observe China and other neighboring nations taking on such roles.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:07 AM</span></span><br>
+    <span>Indeed, while there may be potential long-term repercussions, Chinese and Russian imperialism differ from European imperialism in their tendency to preserve rather than erase. Nonetheless, in the long run, chaos may ensue. American and European imperialism are essentially the same, disregarding the welfare of others. However, I acknowledge that not all European countries exhibit this form of imperialism, but the major powers, particularly France, do.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:10 AM</span></span><br>
+    <span>On a larger scale, I fail to perceive substantial differences between Euro-American imperialism. My primary concern lies in the entrenched nature of the economic system, which restricts progress.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:11 AM</span></span><br>
+    <span>Indeed, when an entire economic system is based on exploitation, the eventual breakdown is inevitable. While it may take some time for America to reach that point due to its current position, it remains susceptible. Western societies rely heavily on long-term economic planning, which, over time, proves insufficient to sustain itself. Money alone lacks the strength to uphold the system. Notably, Occidental powers primarily possess economic prowess.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:21 AM</span></span><br>
+    <span>What concerns me is the immense power held by the state, making revolutions nearly impossible in these countries. Challenging such power seems futile when faced with tanks and modern weaponry.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:22 AM</span></span><br>
+    <span>Indeed, the state's power remains steadfast even with changes in leadership. The scope for revolution is indeed limited in such circumstances. However, revolutions can still occur in societies with weaker state apparatuses, where the people possess more power.</span>
+</div>
+<div class="message">
+    <span class="author">Gweedo Enjoyer — <span class="date">Today at 11:25 AM</span></span><br>
+    <span>Ultimately, only time will reveal what the future holds for these nations.</span>
+</div>
+<div class="message">
+    <span class="author">The Communist Party of China — <span class="date">Today at 11:26 AM</span></span><br>
+    <span>Indeed.</span>
+</div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+
+<h1 class="entryTittle">Illness and plans</h1>
+<p class="dateTime">2023-06-27</p>
+
+
+<p>I've been feeling weird for the past 4 years. I started feeling really weird. I already had some minor symptoms, but things really started to go south 2 years ago.</p>
+<p>I started having really painful skin problems with rashes, and after a while, my eyes also started getting bloodshot. My joints began to feel horrible, not to mention it also makes me have an uncomfortable feeling around my guts.</p>
+<p>I think it took almost 2 years to diagnose it as Lupus because doctors really don't give a fuck around here, so they will look at you and just go by the most common things.</p>
+<p>Anyway, it's a bitch. Waking up sometimes feels like a chore, especially when your body is hurting and your head is aching with an insane migraine.</p>
+<p>Can you believe this shit is also affecting my eyes in a way that could make me blind? Not looking forward to that.</p>
+<p>Hopefully one of the new medications kicks in, and I can at least feel better for the most part. The shitty thing is the one I tried, "Corticosteroids," attacks my anxiety for some reason, so I really hope I get something better, I don't know.</p>
+<p>I'm not really depressed or anything, but physical pain really does suck a lot.</p>
+
+<p>I also sold some shirts, so I'm really glad for whoever bought them. I'll see if I put my art as prints there too because, you know, being a Brazilian and making some dollars is a really good thing, especially because the employment situation here sucks and lupus is fucking me up physically.</p>
+
+<p>Anyway, I also have new ideas for the website. My plan is to make something interactive, and you know, I really like Serial Experiments Lain, so I'll probably do something related to the anime. I can already see it taking shape, so it will not be really that difficult. However, I do need to plot it locally because updating a page here on Neocities all the time as I develop is kind of a hassle.</p>
+<p>I need to update some things on the Antarctica Status website as well, mainly related to content because I dropped the entire archive thing I was going for. I still have the data collected, but I really don't want to categorize everything because of the amount of work I would have to deal with. I'll see what I can do.</p>
+
+
+
+
+
+
+
+</div>
+<div class="blog-post">
+<h1 class="entryTittle">Manipulating Acceptability</h1>
+<p class="dateTime">2023-06-16
+
+<p>
+It's pretty funny how corporations / goverments have gotten so good at manipulating what's considered acceptable in everyday life, and it's impressive how many people actually buy into it. I remember reading an article years ago about a company getting a class action for spying on people, and back then, everyone was up in arms about it. But now, it seems like that kind of thing is just the norm. truth is people are becoming more and more okay with these big powers pushing stuff on us just to create some artificial sense of comfort.</p>
+<p>
+Corporations and governments possess an incredible ability to persuade and exert control over our perception of what is deemed acceptable. They employ various tactics, such as advertising, lobbying, and media influence, to shape public opinion and redefine the limits of acceptability through trial and error. It's a society driven by desires, fears, and dreams. a society carefully crafted to serve their own interests. </p>
+
+<p>
+It's really tough to stand up against these things, nowadays when you don't go along with it, people think you're crazy or you just get yourself in danger. going against all of this can make you an outcast. I live in a place where simply questioning the government is starting to be seen as a crime against democracy. Which is honestly surreal to see people buying that when corruption and the government/corporations go hand in hand here, no matter which political party / ideology is in power.</b>
+
+<p>We are living in the stockholm syndrome era.</p>
+
+
+
+
+
+</div>
+<div class="blog-post">
+
+<h1 class="entryTittle">Around</h1>
+<p class="dateTime">2023-06-11</p>
+
+
+<style>
+
+   
+
+
+
+   
+
+
+
+    .image-container061123 {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center!important;
+    }
+
+    
+        .image-container061123 a {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center !important;
+      margin: 0px !important;
+    }
+
+    .image-container061123 img {
+      max-width: 350px !important;
+      height: auto !important;
+      cursor: pointer !important;
+    
+      margin: 5px;
+      background-color: white;
+    }
+
+
+
+
+  
+
+  
+
+  </style>  
+
+
+ <center>
+        </center><br>
+    
+      <div class="image-container061123">
+  <a href="https://77rx2b.github.io/3D-models/website/image_5.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_5.png" alt="">
+          </a>
+                    <a href="https://77rx2b.github.io/3D-models/website/image_6.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_6.png" alt="">
+          </a>
+          <a href="https://77rx2b.github.io/3D-models/website/image_7.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_7.png" alt="">
+          </a>
+
+        </div>
+         <div class="image-container061123">
+                            <a href="https://77rx2b.github.io/3D-models/website/image_8.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_8.png" alt="">
+          </a>
+                              <a href="https://77rx2b.github.io/3D-models/website/image_9.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_9.png" alt="">
+          </a>
+                    </a>
+                              <a href="https://77rx2b.github.io/3D-models/website/image_10.png" data-fancybox="gallery">
+            <img src="https://77rx2b.github.io/3D-models/website/image_10.png" alt="">
+          </a>
+</div>
+
+           
+           <br>
+           And some songs:
+           <br> <br> 
+           <iframe width="100%" height="105" src="https://vid.puffyan.us/embed/vE07r4B4wR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <br>
+           <iframe width="100%" height="105" src="https://vid.puffyan.us/embed/hvJPnQ6x7RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <br>
+           <iframe width="100%" height="105" src="https://vid.puffyan.us/embed/K1F6zXmOFdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <br>
+           <iframe width="100%" height="105" src="https://vid.puffyan.us/embed/V48ktwnNtrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+</div>
+
+<div class="blog-post">
+<h1 class="entryTittle">He Is Risen</h1>
+<p class="dateTime">2023-04-16</p>
+
+
+
+<p>First of all, I would like to offer my sincerest Easter greetings to all my Orthodox siblings and fellow believers. This is truly a joyous occasion as we celebrate the resurrection of Jesus Christ. Let us rejoice, for HE HAS RISEN! </p>
+
+<p>In honor of this special occasion, I would like to dedicate this blog post to sharing some beautiful chants with you all. Additionally, I would like to bring attention to some issues that we, as Christians, need to come together to address.</p>
+
+<p>Without further ado, I would like to share with you some prayers and chants that hold special meaning for this holy day: </p>
+
+
+Lina Sleibi - ܐܒܘܢ ܕܒܫܡܝܐ (The Lord's Prayer)
+<br><br>
+<iframe width="100%" height="400px" src="https://vid.puffyan.us/embed/_AdPiRWIam0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+Χριστός Ανέστη
+<br><br>
+<iframe width="100%" height="400px" src="https://vid.puffyan.us/embed/8ZSyTUsdpu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br><br>
+Archimandrite Serafim Chanting - Agony in the Garden of Gethsemane
+<br><br>
+<iframe width="100%" height="400px" src="https://vid.puffyan.us/embed/7EH_CoysXW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+Lina Sleibi - Al Tareyk Ito - لينا صليبي - عال ترعيك عيتو
+<br><br>
+<iframe width="100%" height="400px" src="https://vid.puffyan.us/embed/ZB1Giy25Shs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+Pedro Bento & Zé da Estrada - Sete Palavras 
+<br><br>
+<iframe width="100%" height="400px" src="https://vid.puffyan.us/embed/9m46QRdk1X4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+
+<p>As you listen to these chants, may your soul be touched by God and guided towards salvation.</p>
+<p>During this Easter season, it's important to remember those who are experiencing injustices in places like Palestine, Nicaragua, and war-torn areas, as well as those who are battling poverty. Let's take a moment to pray for them and shed light on their struggles, so they can receive the blessings and strength of the Almighty.</p>
+<p>By joining together in this collective effort, we can all play a role in helping those in need.</p>
+
+
+</div>
+
+
+<div class="blog-post">
+<h1 class="entryTittle">The False Messiah of Ideologies</h1>
+<p class="dateTime">2023-04-07</p>
+
+<style>
+.blog04072023 img{
+width: 100%;
+}
+
+</style>
+
+
+<div class="blog04072023">
+<img src="https://77rx2b.github.io/3D-models/website/protestsfrance.jpg" alt="Protests in France at the HQ of Black Rock">
+
+
+
+<p>There are many misconceptions about my beliefs and ideals, which I would like to clarify. First and foremost, some could say my views align with those of classic "leftist" ideals, although I disagree with the notion that political parties and terms like "leftist" or "right-wing" can fully summarize a wide range of complex ideals. To me, reducing complex issues to simplistic labels only leads to incoherent decision-making that often comes at the expense of individual liberties.</p>
+
+<p>This can be observed in several countries, including the United States, Brazil, and France, where the two main political parties often seem more alike than different. Whether it's the Democrats and Republicans in the US or the parties in Brazil and France, both sides tend to prioritize their own interests over those of the general population. This results in policies that favor the wealthy and powerful while neglecting the needs of the poor and marginalized.</p>
+
+<p>For me, social policies are the way forward, although I reject any kind of identitarianism as, to put it bluntly, It's 'bullshit.' In a world where a majority of people suffer from poverty, hunger, and hopelessness, I cannot prioritize identity politics over the more pressing issues of food, water, and shelter.</p>
+
+<p>As a Christian, my faith is central to my beliefs. I believe that losing one's faith and sense of morality is the worst thing that can happen to a person. Unfortunately, the modern world is increasingly detached from reality, focusing more on social media, drama, and consumerism. This has led to a loss of basic human values, with corporations, governments, and lobbyists all contributing to the erosion of our society's moral fabric.</p>
+
+<p>The notion of a free market is often portrayed as a beacon of individual freedom and prosperity, but the reality is often a far cry from this ideal. In many cases, corporations prioritize profits over people, exploiting workers and trampling on basic human rights in the process. They often use social issues as political currency to present a facade of compassion and social responsibility, even as they engage in unethical practices. This is particularly evident when these same corporations try to appeal to identity politics as a way to distract from their harmful actions.</p>
+
+<p>However, it's not just the private sector that is at fault. Governments also play a critical role in perpetuating these issues. For example, in Brazil, the current "leftist" government of the PT party has implemented illegitimate protectionist policies (Which were also being considered by the last "Right-wing" government) that prevent people from accessing cheaper products from China. Instead, they are forced to pay exorbitant prices for the same products sold by Brazilian oligarchs or settle for lower quality goods produced domestically. This illustrates the need to prioritize the needs of individuals over the interests of corporations, which would make it possible to achieve a true free market. </p>
+
+<p>Both political groups labeled as "leftists" and "rightists" are responsible for policies that cause suffering for the poor. They tend to give more importance to less urgent issues instead of focusing on more pressing ones. Greed plays a significant role in these policies, as they often prioritize corporate interests at the expense of the general welfare of the population.</p>
+
+<p>These issues not only exist within political ideologies but also extend to the actions of certain individuals who identify as Christians. For example, some support illegitimate countries like Israel in their genocide of Palestinians, Muslims, and Christians, or the US's illegal sanctions and invasions of countries such as Iran and Afghanistan. Despite these actions being contrary to the teachings of Jesus Christ, these individuals often advocate for those who disrespect their faith, pray for those who spit on their beliefs, and ignore the suffering of innocent people. Such actions are deplorable and should be condemned.</p>
+
+<p>I believe that humans should have the freedom and liberties that God gave us through free will. However, governments, corporations, and even some religions have taken on the role of a false messiah, replacing God and his teachings with their own flawed ideologies.</p>
+
+<p>It is our responsibility as individuals to resist these forces and work towards a more just and equitable society. This means prioritizing the basic needs of all people, regardless of their background, while also working towards a more prosperous future and avoiding falling prey to the false promises of the antichrist.</p>
+
+<p>I want to make it clear that my criticism is not directed towards individuals considered to be successful. I understand that ignorance and misguided beliefs can exist at all levels of society. However, my primary concern is with mega-rich people, corporations, and governments that exacerbate problems through their actions. I believe in the right to private ownership, but I oppose the concentration of enormous amounts of wealth and money in a few hands. Therefore, I advocate for heavy taxation of these individuals and entities, and the funds should be directed to free social programs that provide healthcare and education. This would also ease the tax burden on the poorest classes who shouldn't have to pay taxes when the majority of the world's wealth is held by a small group of entities and people who refuse to share it.</p>
+ 
+
+</div>
+</div>
+<div class="blog-post">
+<h1 class="entryTittle">Public Spaces in Greater São Paulo</h1>
+<p class="dateTime">2023-04-06</p>
+
+
+<style> </style>
+
+<style>
+
+.blogF .sad img{
+
+width: 100%;
+
+
+} </style>
+
+
+<div class="sad">
+<p>In this article, I want to share with you some photographs that I took as part of a final course project in collaboration with a friend. The theme of our project was to show the precariousness of public spaces in the Greater São Paulo area, which are being threatened by the invasion of large shopping centers and skyscrapers. We wanted to capture how these developments affect the urban landscape and the lives of the people who live there.</p>
+
+<img src="https://77rx2b.github.io/3D-models/website/image_2023-04-06_15-00-25.png" alt="Photo 1: Lack of Movement in São Paulo Streets" />
+
+<p>Public spaces are essential for the social and cultural life of a city. They are places where people can meet, interact, relax, play, exercise, and enjoy nature. They also contribute to the identity and diversity of a city, as they reflect its history, culture, and values. However, in many cities around the world, public spaces are disappearing or being neglected due to urbanization and privatization.</p>
+
+<p>This is what is happening in Greater São Paulo, where large real estate developments are taking over the urban space and reducing the availability and quality of public spaces. These developments offer everything that people need in one place: shopping, entertainment, services, housing, and work. </p>
+
+<p>As a result, people have less incentive to go out and explore the city, and more reason to stay inside these enclosed and controlled spaces. This has several negative consequences for the city and its inhabitants, including the loss of movement and vitality on the streets. The streets are the arteries of a city, where people can circulate freely and encounter different people and situations. However, when people prefer to stay inside shopping centers and buildings, the streets become empty and lifeless, creating a feeling of insecurity and fear, especially at night when the streets become dark and deserted. This also makes it harder for the police and private security guards to patrol and protect the area.</p>
+
+<img src="https://77rx2b.github.io/3D-models/website/image_2023-04-06_15-02-27.png" alt="Photo 2: Large Shopping Centers in São Paulo" />
+
+<p>The destruction of green areas and leisure spaces is another consequence of large developments in Greater São Paulo. Public spaces are being replaced by concrete and asphalt, which has a negative impact on the environment and the health of the people. Green areas provide oxygen, shade, beauty, and biodiversity to a city, as well as opportunities for recreation and relaxation for people of all ages and backgrounds. When these areas are eliminated or reduced, people lose access to these benefits and suffer from stress, pollution, noise, and heat. Additionally, there is unfair competition with local small businesses as many of them depend on the movement and diversity of people on the streets to survive. When people choose to shop and consume inside large developments, small businesses lose their clientele and revenue, which can lead to their closure or bankruptcy and affect not only their owners and employees but also the local economy and community.
+</p>
+
+<p>This situation also has negative impacts on the mobility and accessibility of the city. The large developments generate more traffic congestion and pollution, as their residents depend on private vehicles to commute to work, school or other activities. Moreover, they also reduce the availability and diversity of public transportation options, as they are often located in peripheral areas with poor infrastructure and services. Additionally, they also hinder the development of alternative modes of transportation, such as cycling and walking, as they create barriers and obstacles for pedestrians and cyclists.</p>
+
+<img src="https://77rx2b.github.io/3D-models/website/image_2023-04-06_15-00-55.png" alt="Photo 3: Unattractive Buildings" />
+
+<p>Recently, I had the opportunity to visit Cabo Frio, in Rio de Janeiro, and was surprised by the transformation of the area where I used to stay. Before, there were several historic houses with many trees in front, allowing for an incredible view of the beachfront. However, when I returned in 2023, I was surprised by several huge and unattractive buildings that completely obstructed the view and had no green areas, in addition to being completely walled.</p>
+
+<p>This example illustrates how the expansion of large developments can affect not only the environment and the quality of life, but also the identity and the memory of a place. Cabo Frio is a city with a rich history and culture, dating back to the colonial period. It has a unique architectural heritage that reflects its diverse influences and traditions. However, this heritage is being threatened by the indiscriminate construction of large developments that disregard the local context and character.</p>
+<img src="https://77rx2b.github.io/3D-models/website/image_2023-04-06_15-02-18.png" alt="Photo 4: Empty Public Space" />
+ 
+ 
+ <p>Given this scenario, it is essential that authorities and society work together to find solutions that promote the revitalization of public spaces, preserving green areas and ensuring a safe and dynamic environment for all. It is necessary to rethink the development model that values the construction of large developments at the expense of public spaces. Some possible actions include:</p>
+<ul>
+  <li>Implementing urban planning policies that regulate land use and zoning, limiting the height and density of buildings and preserving historic sites and natural areas.</li>
+  <li>Promoting urban design strategies that integrate public spaces with private spaces, creating mixed-use neighborhoods that offer a variety of functions and activities for different groups and needs.</li>
+  <li>Encouraging participatory processes that involve citizens in decision-making about urban development projects, ensuring transparency and accountability.</li>
+  <li>Supporting community initiatives that reclaim public spaces for social purposes, such as cultural events, artistic interventions and environmental education.</li>
+  <li>Developing educational programs that raise awareness about the importance of green areas and public spaces for urban sustainability and social cohesion.</li>
+</ul>
+<p>In conclusion, the uncontrolled expansion of large real estate developments in Greater São Paulo and throughout Brazil represents an alert about the problems that these developments can generate. In addition to the lack of movement and insecurity on the streets, this expansion results in the destruction of green areas, harming the environment and the quality of life of the population. Therefore, it is urgent to change this paradigm and to value the public space as a common good hat belongs to everyone and that contributes to the improvement of the urban landscape.</p>
+ 
+ 
+<p>Writen by Ongezell [E. Mangia] & C.Kodama</p>
+</div>
+
+</div>
+
+
+</div>
+
+
+
+
+  </body>
+</html>
